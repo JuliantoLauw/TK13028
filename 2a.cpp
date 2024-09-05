@@ -9,7 +9,7 @@ int main() {
 
     cout << "Masukkan nilai siswa 'ketik nilai negatif untuk berhenti':" << endl;
 
-    while (nilai > 0) {
+    while (nilai >= 0) {
         cout << "Masukkan nilai: ";
         cin >> nilai;
 
