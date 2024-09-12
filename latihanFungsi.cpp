@@ -26,7 +26,7 @@ double rataRata(int a, int b, int c) {
 }
 
 // Fungsi untuk menerima input username dan password
-bool login(string& username, string& password) {
+bool login(string &username, string &password) {
     string correctUsername = "Julianto";
     string correctPassword = "Juli123";
 
