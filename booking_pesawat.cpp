@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-#include <string.h>
+
 using namespace std;
 
 const int ROWS = 15, COLMS = 6;
